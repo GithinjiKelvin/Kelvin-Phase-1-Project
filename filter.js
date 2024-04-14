@@ -1,5 +1,5 @@
 
-
+// does the filtering option
 
 for (let i of apartments.data){
     // create card to display houses
