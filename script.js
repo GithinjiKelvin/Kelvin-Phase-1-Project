@@ -1,3 +1,5 @@
+// array of object to store data
+
 let apartments = {
     data:[
         {
