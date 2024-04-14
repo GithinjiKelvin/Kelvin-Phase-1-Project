@@ -1,4 +1,4 @@
-
+// fetching from the db.json
 function getAllAPartments(){
     fetch('http://localhost:3000/apartments')
     .then(res => res.json())
