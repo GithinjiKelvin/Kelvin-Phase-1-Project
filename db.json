@@ -47,6 +47,38 @@
             "category":"Apartment",
             "price":20000,
             "image":"./assets/images/house4.jpeg"
+        },
+        {
+            "id":7,
+            "name":"house 7",
+            "location":"Kitsuru",
+            "category":"Apartment",
+            "price":20000,
+            "image":"./assets/images/house7.jpeg"
+        },
+        {
+            "id":8,
+            "name":"house 8",
+            "location":"Kasarani",
+            "category":"Studio",
+            "price":20000,
+            "image":"./assets/images/house5.jpeg"
+        },
+        {
+            "id":9,
+            "name":"house 9",
+            "location":"Roysambu",
+            "category":"Studio",
+            "price":20000,
+            "image":"./assets/images/house6.jpeg"
+        },
+        {
+            "id":10,
+            "name":"house 10",
+            "location":"Kasarani",
+            "category":"Studio",
+            "price":20000,
+            "image":"./assets/images/house5.jpeg"
         }
     ]
 }
