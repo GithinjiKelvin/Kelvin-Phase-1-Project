@@ -10,6 +10,7 @@ function displayApartment(apartment){
     let card = document.createElement("div");
     // card is hidden initially
     card.className = 'card'
+    // adding html elements on the card
     card.innerHTML = `
     <div class ="image-container">
     <img src = "${apartment.image}">
